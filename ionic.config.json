@@ -1,0 +1,7 @@
+{
+  "name": "reactionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
